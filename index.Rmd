@@ -1,0 +1,16 @@
+---
+title: "Welcome ! About Jennifer A. Osei"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: simplex 
+---
+
+##  <font size="6"> About Jennifer A. Osei </font> 
+
+
+
+![](image/Jennifer Osei yay.jpg)
+
+
